@@ -6,6 +6,8 @@ git remote add origin https://github.com/nikhomgithub/basicaconda.git
 git push -u origin master
 
 
+//From===========https://www.youtube.com/watch?v=cXP_i5-nTXg
+
 
 //To see what module inside anaconda
 $anaconda list
@@ -18,3 +20,6 @@ $anaconda-navigator
 
 //To do command list
 pd. and press tab
+
+//shit+enter = run
+//esc+d+d= delete cell
