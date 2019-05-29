@@ -15,3 +15,6 @@ $jupytor notebook
 
 //To launch anaconda-navigator
 $anaconda-navigator
+
+//To do command list
+pd. and press tab
