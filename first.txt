@@ -1,0 +1,17 @@
+echo "# basicaconda" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/nikhomgithub/basicaconda.git
+git push -u origin master
+
+
+
+//To see what module inside anaconda
+$anaconda list
+
+//To launch jupyter
+$jupytor notebook
+
+//To launch anaconda-navigator
+$anaconda-navigator
